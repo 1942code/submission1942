@@ -23,6 +23,7 @@
 - `model_MoCo.py`: 
   - Prototype updating mechanism
   - Contrastive learning components
+  - Confidence sample selection
 
 ## Complete Experiment Scripts
 - `main_DOH.ipynb` & `main_malicious_TLS.ipynb`
